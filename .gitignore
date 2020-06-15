@@ -1,0 +1,10 @@
+**/bin/
+!3rdparty/premake/
+bin-int/
+
+.vs/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+

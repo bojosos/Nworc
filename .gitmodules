@@ -1,0 +1,24 @@
+[submodule "Nworc/Dependencies/glfw"]
+	path = Nworc/Dependencies/glfw
+	url = https://github.com/glfw/glfw
+[submodule "Nworc/Dependencies/sol2"]
+	path = Nworc/Dependencies/sol2
+	url = https://github.com/ThePhD/sol2
+[submodule "Nworc/Dependencies/LuaJIT"]
+	path = Nworc/Dependencies/LuaJIT
+	url = https://github.com/LuaJIT/LuaJIT
+[submodule "Nworc/Dependencies/glm"]
+	path = Nworc/Dependencies/glm
+	url = https://github.com/g-truc/glm
+[submodule "Nworc/Dependencies/freetype-gl"]
+	path = Nworc/Dependencies/freetype-gl
+	url = https://github.com/rougier/freetype-gl
+[submodule "Nworc/Dependencies/freetype2"]
+	path = Nworc/Dependencies/freetype2
+	url = https://github.com/aseprite/freetype2
+[submodule "Nworc/Dependencies/imgui"]
+	path = Nworc/Dependencies/imgui
+	url = https://github.com/ocornut/imgui
+[submodule "Nworc/Dependencies/spdlog"]
+	path = Nworc/Dependencies/spdlog
+	url = https://github.com/gabime/spdlog
